@@ -18,8 +18,6 @@ Building clean, responsive, and scalable web applications.
 ![CSS](https://img.shields.io/badge/CSS3-111111?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-111111?style=flat&logo=bootstrap)
-![Tailwind](https://img.shields.io/badge/Tailwind-111111?style=flat&logo=tailwindcss)
-![React](https://img.shields.io/badge/React-111111?style=flat&logo=react)
 ![Git](https://img.shields.io/badge/Git-111111?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat&logo=github)
 ![Figma](https://img.shields.io/badge/Figma-111111?style=flat&logo=figma)
