@@ -1,31 +1,47 @@
-# Maheen Imran
+## Hi there, I'm Maheen Imran 👋
 
-## Full Stack Web Developer | Freelancer | Modern AI (Cisco)
-
-I build **responsive, performance-focused web applications** using modern frontend stacks.  
-Trained at **SMIT (Full Stack)** and **Cisco (Modern AI)**.  
-Available for **freelance & remote work**.
+**Full Stack Web Developer | Freelancer | Modern AI (Cisco)**  
+Building clean, responsive, and scalable web applications.
 
 ---
 
-### Core Skills
-- HTML5, CSS3, JavaScript (ES6+)
-- Bootstrap, Tailwind CSS
-- React (Foundations)
-- Git, GitHub
-- Figma (UI → Code)
-- Netlify, Vercel, Surge
+### 👩‍💻 About Me
+- Full Stack Developer trained at **SMIT**
+- Learning **Modern AI** with **Cisco**
+- Freelancer focused on **responsive & SEO-optimized websites**
+- Strong grip on deployment workflows
 
 ---
 
-### What I Do
-- Pixel-perfect responsive layouts  
-- Clean, readable, maintainable code  
-- SEO-friendly frontend structure  
-- Fast deployment workflows  
+### 🧰 Technologies & Tools
+![HTML](https://img.shields.io/badge/HTML5-111111?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-111111?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111111?style=flat&logo=bootstrap)
+![Tailwind](https://img.shields.io/badge/Tailwind-111111?style=flat&logo=tailwindcss)
+![React](https://img.shields.io/badge/React-111111?style=flat&logo=react)
+![Git](https://img.shields.io/badge/Git-111111?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat&logo=github)
+![Figma](https://img.shields.io/badge/Figma-111111?style=flat&logo=figma)
+![Netlify](https://img.shields.io/badge/Netlify-111111?style=flat&logo=netlify)
+![Vercel](https://img.shields.io/badge/Vercel-111111?style=flat&logo=vercel)
 
 ---
 
-### Links
+### 🚀 What I Focus On
+- Pixel-perfect responsive layouts
+- Clean, maintainable frontend code
+- SEO-friendly structure
+- Fast & reliable deployments
+
+---
+
+### 📌 Featured Work
+> Pin your **best 3–4 repositories** here  
+Projects > dashboards. Always.
+
+---
+
+### 🔗 Connect With Me
 - LinkedIn: https://linkedin.com/in/maheenimran9  
 - Email: maheenimran9.dev@gmail.com
