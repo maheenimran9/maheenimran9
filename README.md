@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=0077B5&height=200&section=header&text=Maheen%20Imran&fontSize=70&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Maheen%20Imran&fontSize=70" width="100%" />
 
-  <h3>🌟 Full Stack Developer | Freelancer | Modern AI Specialist</h3>
-  <p><strong>Transforming complex ideas into pixel-perfect responsive reality.</strong></p>
+  <h3>🚀 Full Stack Developer | Freelancer | Modern AI Specialist</h3>
+  <p><strong>SEO Optimized Responsive Web Solutions</strong></p>
 
   <p>
     <a href="https://linkedin.com/in/maheenimran9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -12,34 +12,35 @@
 
 ---
 
-### 🚀 About Me
-- 💻 **Dev Journey:** Specialized MERN Stack training from **Saylani Mass IT Training (SMIT)**.
-- 🤖 **AI Research:** Advanced Modern AI certified by **Cisco**.
-- 💼 **Freelancing:** Delivering high-end web solutions with a focus on **SEO & Performance**.
-- 📱 **UI/UX:** Expert in building **Responsive Web Designs** using Tailwind & Bootstrap.
-- 📦 **Deployment:** Pro in managing environments like **Vercel, Netlify, and Surge**.
+### 💫 About Me
+- 💻 **Full Stack:** Mastering MERN Stack at **SMIT**.
+- 🤖 **AI Research:** Modern AI Specialist through **Cisco**.
+- 💼 **Freelancing:** Delivering high-quality, SEO-optimized web projects.
+- 🚀 **Deployment:** Expert in **Netlify, Vercel, and Surge**.
 
 ---
 
 ### 🛠️ Technical Toolkit
-<p align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,git,github,vscode,netlify,vercel,figma&theme=dark" />
-</p>
+</div>
 
 ---
 
-### 📊 GitHub Performance (Real-time Stats)
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=maheenimran9&show_icons=true&theme=tokyonight&hide_border=false" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheenimran9&layout=compact&theme=tokyonight&hide_border=false" />
-</p>
+### 📊 GitHub Dashboard
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maheenimran9&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheenimran9&layout=compact&theme=tokyonight" width="40%" />
+</div>
 
-<p align="center">
-  <img width="89%" src="https://github-readme-streak-stats.herokuapp.com/?user=maheenimran9&theme=tokyonight&hide_border=false" />
-</p>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheenimran9&theme=tokyonight" width="100%" />
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=slice&color=0077B5&height=25&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=slice&color=auto&height=25&section=footer" width="100%" />
 </div>
