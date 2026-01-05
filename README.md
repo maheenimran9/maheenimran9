@@ -1,40 +1,48 @@
-
-# Hi, I'm Maheen 👋  
-
-🎓 Pre-Engineering Student | 💻 Learning Web & App Development at SMIT  
-🌱 Aspiring Full Stack Developer | 🚀 Exploring coding and projects  
-
----
-
-## 🔹 What I'm Learning
-- 🌐 HTML, CSS, JavaScript  
-- 🔧 Git & GitHub  
-- 📱 Fundamentals of Web & App Development  
+<div align="center">
+  <h1>Hi 👋, I'm Maheen Imran</h1>
+  <p><strong>Aspiring Full Stack Developer | Pre-Engineering Student | Learning at SMIT</strong></p>
+</div>
 
 ---
 
-## 🔹 My Goals
-- 🚀 Build and share practical projects  
-- 📚 Improve skills step by step to become a Full Stack Developer  
+### 🚀 About Me
+I am a passionate learner from **Karachi, Pakistan**, currently diving deep into the world of Web & App Development. I love building practical projects and solving logical challenges.
+
+- 🔭 I’m currently working on **JavaScript Projects**.
+- 🌱 I’m currently learning **Full Stack Development**.
+- ⚡ Fun fact: I believe coding is the best way to turn ideas into reality.
 
 ---
 
-## 📫 Contact Me
-📧 **maheenimran.dev@gmail.com**  
+### 💻 Technical Skills
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,git,github,vscode" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Languages & Tools
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+### 📊 GitHub Analytics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=maheenimran9&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheenimran9&layout=compact&theme=tokyonight&hide_border=false" />
+</p>
+
+<p align="center">
+  <img width="89%" src="https://github-readme-streak-stats.herokuapp.com/?user=maheenimran9&theme=tokyonight&hide_border=false" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![Maheen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheenimran9&show_icons=true&theme=tokyonight)  
+### 🤝 Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/maheenimran9" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:maheenimran9.dev@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheenimran9&layout=compact&theme=tokyonight)  
+<br />
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=slice&color=auto&height=20&section=footer" width="100%" />
+</div>
