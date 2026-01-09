@@ -34,12 +34,6 @@ Building clean, responsive, and scalable web applications.
 
 ---
 
-### 📌 Featured Work
-> Pin your **best 3–4 repositories** here  
-Projects > dashboards. Always.
-
----
-
 ### 🔗 Connect With Me
 - LinkedIn: https://linkedin.com/in/maheenimran9  
 - Email: maheenimran9.dev@gmail.com
