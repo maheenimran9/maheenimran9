@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Maheen Imran 👩‍💻<br><br>Frontend Developer | MERN Stack Learner | AI Enthusiast<br><br>Building responsive, performance-focused web applications with clean architecture and scalable structure.<br><br>🚀 About Me<br><br>🎓 Web & App Development (SMIT)<br><br>🤖 Learning Modern AI (Cisco)<br><br>💻 Focused on Frontend Development (Javascript(ES6+) in progress)<br><br>🌍 Based in Karachi, Pakistan<br><br>🎯 Goal: Become a production-level Full Stack Developer<br><br>I care about writing clean code, understanding fundamentals deeply, and building real-world projects — not just completing assignments.
+Hi, I'm Maheen Imran 👩‍💻<br><br>Frontend Developer | MERN Stack Learner | AI Enthusiast<br><br>Building responsive, performance-focused web applications with clean architecture and scalable structure.<br><br>🚀 About Me<br><br>🎓 Web & App Development (SMIT)<br><br>🤖 Learning Modern AI (Cisco)<br><br>💻 Focused on Frontend Development (Javascript(ES6+) in progress)<br><br>🌍 Based in Karachi, Pakistan<br><br>🎯 Goal: Become a production-level Full Stack Developer<br><br>I care about writing clean code, understanding fundamentals deeply, and building real-world projects not just completing assignments.
 
 
 ## 🌐 Socials:
