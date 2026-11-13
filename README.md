@@ -1,30 +1,32 @@
-<!-- ================================================= -->
-<!--                  HEADER                            -->
-<!-- ================================================= -->
+<!-- =============== HEADER =============== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0307,40:310817,100:0B0307&height=210&section=header&text=Maheen%20Imran&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20WordPress%20%26%20React%20%7C%20UI%2FUX%20Designer&descAlignY=60&descSize=15&animation=fadeIn" width="100%" alt="Maheen Imran GitHub banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0307,50:310817,100:0B0307&height=200&section=header&text=MAHEEN%20IMRAN&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=WEB%20DESIGNER%20%26%20FRONTEND%20DEVELOPER&descSize=15&descAlignY=60&descColor=FF4778" alt="Maheen Imran dark burgundy banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=19&duration=3000&pause=1000&color=FF4778&center=true&vCenter=true&width=650&lines=Building+Websites+That+Make+Your+Phone+Ring;Frontend+Developer+%7C+Web+Designer;WordPress+%26+Custom+MERN+Development;Turning+Business+Ideas+Into+Digital+Experiences" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=19&pause=1200&color=FF4778&center=true&vCenter=true&width=650&lines=Websites+That+Make+Your+Phone+Ring;Frontend+Developer+%7C+Web+Designer;WordPress+%7C+React+%7C+MERN;Building+Better+Digital+Experiences" alt="Animated introduction"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=310817&label=PROFILE+VIEWS" alt="Profile views counter" />
+<a href="https://github.com/maheenimran9">
+<img src="https://img.shields.io/badge/GitHub-maheenimran9-310817?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+</a>
+
+<a href="https://www.linkedin.com/in/maheenimran9/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-49313B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
+</a>
 
 </div>
 
 ---
 
-<!-- ================================================= -->
-<!--                  ABOUT ME                          -->
-<!-- ================================================= -->
+<!-- =============== ABOUT ME =============== -->
 
-<h2 align="center">👩🏻‍💻 About Me</h2>
+<h2 align="center">👩🏻‍💻 ABOUT ME</h2>
 
 <table>
 <tr>
-<td width="60%" valign="middle">
+<td width="65%" valign="middle">
 
 ```javascript
 const maheen = {
@@ -39,66 +41,54 @@ const maheen = {
 
   languages: ["Urdu", "English"],
 
-  building: [
-    "Business Websites",
-    "WooCommerce Stores",
-    "Warehouse & Racking Websites",
-    "Modern React Applications"
+  services: [
+    "Business Website Development",
+    "Website Redesign",
+    "UI/UX Design",
+    "E-commerce Development"
   ],
 
-  learning: [
+  specialization: [
+    "Racking & Storage Websites",
+    "Warehouse Equipment Websites",
+    "Business Websites"
+  ],
+
+  currentlyLearning: [
     "Next.js",
     "TypeScript",
-    "Web Performance",
-    "Technical SEO"
+    "Technical SEO",
+    "Web Performance"
   ],
 
-  tech: {
-
-    frontend: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "React",
-      "Vite"
-    ],
-
-    cms: [
-      "WordPress",
-      "WooCommerce"
-    ],
-
-    backend: [
-      "Node.js",
-      "Express",
-      "MongoDB"
-    ],
-
-    tools: [
-      "Cloudinary",
-      "Git",
-      "GitHub",
-      "Figma"
-    ]
+  stack: {
+    frontend: ["HTML", "CSS", "JavaScript", "React"],
+    cms: ["WordPress", "WooCommerce"],
+    backend: ["Node.js", "Express", "MongoDB"],
+    tools: ["Vite", "Cloudinary", "Git", "Figma"]
   },
 
-  focus: "UI/UX & Conversion-Focused Websites",
-
-  goal: "Building better digital experiences"
+  goal: "Build websites that convert"
 };
 ```
 
 </td>
 
-<td width="40%" align="center" valign="middle">
+<td width="35%" align="center">
 
-<img src="YOUR_ILLUSTRATION_URL" width="100%" alt="Maheen's developer illustration" />
+<img src="https://github.com/maheenimran9.png" width="180" alt="Maheen Imran GitHub profile picture"/>
 
 <br><br>
 
-### Design. Develop. Improve.
+**DESIGN. DEVELOP. IMPROVE.**
 
-Creating modern, responsive and user-friendly websites for businesses.
+Frontend Developer
+
+WordPress & React
+
+UI/UX Designer
+
+Karachi, Pakistan
 
 </td>
 </tr>
@@ -108,7 +98,7 @@ Creating modern, responsive and user-friendly websites for businesses.
 
 <div align="center">
 
-> "Great websites don't just look good. They make it easier for people to take action."
+> Great websites don't just look good. They make it easier for people to take action.
 
 **— Maheen Imran**
 
@@ -116,45 +106,41 @@ Creating modern, responsive and user-friendly websites for businesses.
 
 ---
 
-<!-- ================================================= -->
-<!--                  CONNECT                           -->
-<!-- ================================================= -->
+<!-- =============== CONNECT =============== -->
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center">🌐 CONNECT WITH ME</h2>
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/maheenimran9/">
+<img src="https://img.shields.io/badge/LINKEDIN-310817?style=for-the-badge&logo=linkedin&logoColor=FF4778" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:maheenimran.services@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-8D5368?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:maheenimran.dev@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-310817?style=for-the-badge&logo=gmail&logoColor=FF4778" alt="Email"/>
 </a>
 
-<a href="YOUR_INSTAGRAM_URL">
-<img src="https://img.shields.io/badge/Instagram-Follow-BB5275?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+<a href="https://dribbble.com/maheen-imran">
+<img src="https://img.shields.io/badge/DRIBBBLE-310817?style=for-the-badge&logo=dribbble&logoColor=FF4778" alt="Dribbble"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Explore-663044?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+<a href="https://github.com/maheenimran9">
+<img src="https://img.shields.io/badge/GITHUB-310817?style=for-the-badge&logo=github&logoColor=FF4778" alt="GitHub"/>
 </a>
 
 </div>
 
 ---
 
-<!-- ================================================= -->
-<!--                  TECH STACK                        -->
-<!-- ================================================= -->
+<!-- =============== TECH STACK =============== -->
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<h2 align="center">🛠️ TECH STACK & TOOLS</h2>
 
 <h3 align="center">Frontend Development</h3>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite&theme=dark" alt="HTML CSS JavaScript React and Vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite&theme=dark" alt="HTML CSS JavaScript React Vite"/>
 
 </div>
 
@@ -162,7 +148,7 @@ Creating modern, responsive and user-friendly websites for businesses.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,wordpress&theme=dark" alt="Node.js Express MongoDB and WordPress" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,wordpress&theme=dark" alt="Node Express MongoDB WordPress"/>
 
 </div>
 
@@ -170,7 +156,7 @@ Creating modern, responsive and user-friendly websites for businesses.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,ps,npm,vercel,netlify&theme=dark" alt="Figma Git GitHub VS Code Photoshop npm Vercel and Netlify" />
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,ps,npm,vercel,netlify&theme=dark" alt="Figma Git GitHub VS Code Photoshop npm Vercel Netlify"/>
 
 </div>
 
@@ -180,71 +166,65 @@ Creating modern, responsive and user-friendly websites for businesses.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/WordPress-49313B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+<img src="https://img.shields.io/badge/WOOCOMMERCE-49313B?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce"/>
 
-<img src="https://img.shields.io/badge/WooCommerce-70415D?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce" />
+<img src="https://img.shields.io/badge/CLOUDINARY-49313B?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
 
-<img src="https://img.shields.io/badge/Cloudinary-49313B?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+<img src="https://img.shields.io/badge/ELEMENTOR-49313B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor"/>
 
-<img src="https://img.shields.io/badge/Elementor-70415D?style=flat-square&logo=elementor&logoColor=white" alt="Elementor" />
-
-<img src="https://img.shields.io/badge/Photoshop-49313B?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
-
-<img src="https://img.shields.io/badge/Canva-70415D?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
+<img src="https://img.shields.io/badge/CANVA-49313B?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
 
 </div>
 
 ---
 
-<!-- ================================================= -->
-<!--                  CURRENT WORK                      -->
-<!-- ================================================= -->
+<!-- =============== CURRENT WORK =============== -->
 
-<h2 align="center">🚀 What I'm Working On</h2>
-
-<div align="center">
+<h2 align="center">🚀 CURRENTLY WORKING ON</h2>
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-### 💻 Building
+### 💻 BUILDING
 
-- Business Websites
-- E-commerce Experiences
-- Warehouse & Racking Websites
-- Responsive React Interfaces
+Business Websites
+
+WooCommerce Stores
+
+Warehouse & Racking Websites
+
+Responsive React Interfaces
 
 </td>
 
 <td width="50%" align="center">
 
-### 📚 Learning
+### 📚 LEARNING
 
-- Next.js
-- TypeScript
-- Website Performance
-- Technical SEO
+Next.js
+
+TypeScript
+
+Website Performance
+
+Technical SEO
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-<!-- ================================================= -->
-<!--                  GITHUB STATS                      -->
-<!-- ================================================= -->
+<!-- =============== GITHUB STATS =============== -->
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">📊 GITHUB ANALYTICS</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&bg_color=0B0307&title_color=E8A0B3&icon_color=D85A78&text_color=C9C2C6&rank_icon=github" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=maheenimran9&show_icons=true&hide_border=true&bg_color=0B0307&title_color=E8A0B3&icon_color=D85A78&text_color=FFFFFF&rank_icon=github" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&bg_color=0B0307&title_color=E8A0B3&text_color=C9C2C6&langs_count=8" alt="Most used programming languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheenimran9&layout=compact&hide_border=true&bg_color=0B0307&title_color=E8A0B3&text_color=FFFFFF&langs_count=8" alt="Most used programming languages"/>
 
 </div>
 
@@ -252,158 +232,106 @@ Creating modern, responsive and user-friendly websites for businesses.
 
 <div align="center">
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0B0307&ring=D85A78&fire=E8A0B3&currStreakLabel=E8A0B3&sideLabels=C9C2C6&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=maheenimran9&hide_border=true&background=0B0307&ring=D85A78&fire=E8A0B3&currStreakLabel=E8A0B3&sideLabels=C9C2C6&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-<!-- ================================================= -->
-<!--                  PROFILE SUMMARY                   -->
-<!-- ================================================= -->
+<!-- =============== PROFILE SUMMARY =============== -->
 
-<h2 align="center">📈 Contribution Overview</h2>
+<h2 align="center">📈 CONTRIBUTION OVERVIEW</h2>
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=transparent" alt="GitHub profile details" />
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maheenimran9&theme=github_dark" alt="GitHub profile details"/>
 
 </div>
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=transparent" alt="Repositories by language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maheenimran9&theme=github_dark" alt="Repositories by language"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=transparent" alt="Most committed languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maheenimran9&theme=github_dark" alt="Most committed languages"/>
 
 </div>
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=transparent" alt="GitHub statistics summary" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maheenimran9&theme=github_dark" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=transparent&utcOffset=5" alt="GitHub productive time" />
-
-</div>
-
----
-
-<!-- ================================================= -->
-<!--                  ACTIVITY GRAPH                    -->
-<!-- ================================================= -->
-
-<h2 align="center">📉 Contribution Activity</h2>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0B0307&color=C9A1AF&line=D85A78&point=E8A0B3&area=true&hide_border=true&custom_title=My%20Contribution%20Activity" alt="GitHub activity graph" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maheenimran9&theme=github_dark&utcOffset=5" alt="Productive time"/>
 
 </div>
 
 ---
 
-<!-- ================================================= -->
-<!--                  TROPHIES                          -->
-<!-- ================================================= -->
+<!-- =============== ACTIVITY GRAPH =============== -->
 
-<h2 align="center">🏆 GitHub Achievements</h2>
+<h2 align="center">📉 CONTRIBUTION ACTIVITY</h2>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="GitHub trophies and achievements" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=maheenimran9&bg_color=0B0307&color=C9A1AF&line=D85A78&point=E8A0B3&area=true&hide_border=true&custom_title=My%20GitHub%20Activity" alt="GitHub activity graph"/>
 
 </div>
 
 ---
 
-<!-- ================================================= -->
-<!--                  FEATURED PROJECTS                 -->
-<!-- ================================================= -->
+<!-- =============== TROPHIES =============== -->
 
-<h2 align="center">💼 Featured Projects</h2>
+<h2 align="center">🏆 GITHUB ACHIEVEMENTS</h2>
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 🏭 Warehouse & Racking Website
-
-Business website concept for industrial storage and warehouse equipment companies.
-
-**Tech:** WordPress, Elementor
-
-[View Project](YOUR_PROJECT_1_URL)
-
-</td>
-
-<td width="50%" align="center">
-
-### 🛒 E-Commerce Store
-
-Modern online store with product listings and shopping functionality.
-
-**Tech:** WooCommerce, WordPress
-
-[View Project](YOUR_PROJECT_2_URL)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
-### 💻 Digital Agency Website
-
-Modern agency website with responsive layouts and service sections.
-
-**Tech:** React, Vite, CSS
-
-[View Project](YOUR_PROJECT_3_URL)
-
-</td>
-
-<td width="50%" align="center">
-
-### 🎨 Service Business Website
-
-Professional website concept for a service-based business.
-
-**Tech:** React, JavaScript, CSS
-
-[View Project](YOUR_PROJECT_4_URL)
-
-</td>
-</tr>
-</table>
+<img src="https://github-profile-trophy.vercel.app/?username=maheenimran9&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="GitHub trophies"/>
 
 </div>
 
-<!-- Replace these concepts with actual projects and working links. -->
-
 ---
 
-<!-- ================================================= -->
-<!--                  FOOTER                            -->
-<!-- ================================================= -->
+<!-- =============== REPOSITORIES =============== -->
+
+<h2 align="center">💼 MY REPOSITORIES</h2>
 
 <div align="center">
 
-### Let's Build Something Great Together.
+<a href="https://github.com/maheenimran9?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-310817?style=for-the-badge&logo=github&logoColor=FF4778" alt="Explore all repositories"/>
+</a>
 
-Interested in web development, UI/UX or building better digital experiences?
+<br><br>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/Connect_With_Me-663044?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Maheen on LinkedIn" />
+<a href="https://github.com/maheenimran9/assignment-04">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=maheenimran9&repo=assignment-04&theme=dark&hide_border=true&bg_color=0B0307&title_color=E8A0B3&icon_color=D85A78" alt="Assignment 04 repository"/>
+</a>
+
+<a href="https://github.com/maheenimran9/assignment--03">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=maheenimran9&repo=assignment--03&theme=dark&hide_border=true&bg_color=0B0307&title_color=E8A0B3&icon_color=D85A78" alt="Assignment 03 repository"/>
+</a>
+
+</div>
+
+---
+
+<!-- =============== FOOTER =============== -->
+
+<div align="center">
+
+### LET'S BUILD SOMETHING GREAT TOGETHER.
+
+Web Design • Frontend Development • UI/UX
+
+<br>
+
+<a href="https://www.linkedin.com/in/maheenimran9/">
+<img src="https://img.shields.io/badge/LET'S%20CONNECT-663044?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
 
 <br><br>
 
 **Made with care by Maheen Imran**
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:310817,50:190811,100:0B0307&height=120&section=footer" width="100%" alt="Dark burgundy footer wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:310817,50:190811,100:0B0307&height=110&section=footer" alt="Burgundy footer wave"/>
 
 </div>
