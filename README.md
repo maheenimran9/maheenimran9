@@ -1,21 +1,409 @@
-# 💫 About Me:
-Act as a professional GitHub profile designer, README.md specialist, and personal branding expert for software developers.<br><br>## My Goal<br><br>I want to create a modern, professional, visually attractive GitHub profile README.md inspired by the reference README I have provided.<br><br>Analyze the reference carefully and create a similar design, layout, and level of detail, but customize everything according to my actual skills, projects, and professional identity.<br><br>## About Me<br><br>* Name: Maheen Imran<br>* Role: MERN Stack Developer<br>* Main focus: Full-stack web development, website development, and website redesign.<br>* Additional services: AI integrations, AI agents, and other digital services where relevant.<br>* Goal: Present myself professionally to potential clients, recruiters, and collaborators.<br><br>## Required README Sections<br><br>### 1. Professional Header<br><br>* Attractive banner or header section.<br>* Greeting: "Hi, I'm Maheen Imran."<br>* Professional headline describing my development skills.<br>* Animated typing text using a reliable typing SVG service.<br>* Profile views counter.<br>* Clickable badges for GitHub, LinkedIn, and portfolio, where links are available.<br><br>### 2. About Me<br><br>Write a concise, natural, professional introduction.<br>Include:<br><br>* Who I am.<br>* What I build.<br>* My main technical interests.<br>* What I am currently learning or working on, if known.<br>* My professional goals.<br><br>Do not invent experience, qualifications, achievements, or projects.<br><br>### 3. Technical Skills<br><br>Organize technologies into categories:<br><br>* Frontend Development<br>* Backend Development<br>* Databases<br>* Tools and Platforms<br>* APIs and Integrations<br>* Additional Technologies<br><br>Use attractive skill icons from skillicons.dev or suitable shields.io badges.<br><br>Only include technologies that I confirm I know. Do not automatically claim proficiency in every technology associated with the MERN stack.<br><br>### 4. Featured Projects<br><br>Showcase my best projects in a clean, visually appealing format.<br><br>For each project, include:<br><br>* Project name.<br>* Short description.<br>* Main features.<br>* Technologies used.<br>* Live demo button, if available.<br>* GitHub repository button, if available.<br>* Project screenshot, if available.<br><br>Use actual project information and working links. Never invent projects, repository URLs, features, or deployment links.<br><br>If project information is missing, create clearly marked placeholders for me to replace.<br><br>### 5. Current Focus<br><br>Include a short section highlighting my current learning goals and development interests.<br><br>Use only information I provide. If details are missing, leave editable placeholders.<br><br>### 6. GitHub Statistics<br><br>Include:<br><br>* GitHub profile statistics.<br>* Most-used programming languages.<br>* Contribution activity graph.<br>* Contribution snake animation, if it can be configured reliably.<br><br>Use my actual GitHub username in all widgets.<br><br>Prefer maintained services and explain any external configuration required. Do not promise that third-party widgets will always work.<br><br>### 7. Services<br><br>Present my relevant services professionally:<br><br>* Website Development<br>* Website Redesign<br>* Responsive Web Applications<br>* Backend and API Development<br>* AI Integration and AI Agents, where supported by my actual skills.<br><br>Keep the descriptions concise and credible. Do not make unsupported claims about results or expertise.<br><br>### 8. Contact Section<br><br>Add attractive buttons or badges for:<br><br>* GitHub<br>* LinkedIn<br>* Portfolio<br>* Email, if provided<br><br>Use my actual links. Do not invent contact details.<br><br>### 9. Footer<br><br>Add a simple closing message and a professional developer-themed touch.<br><br>## Design Requirements<br><br>* Follow the reference README's overall visual style.<br>* Use clean Markdown.<br>* Add suitable emojis without overusing them.<br>* Use consistent spacing and section dividers.<br>* Use clickable badges and technology icons.<br>* Keep the design attractive in both GitHub's light and dark themes where possible.<br>* Avoid excessive animations and unnecessary widgets.<br>* Ensure the README renders correctly on GitHub.<br>* Use accessible descriptions for meaningful images.<br>* Do not include broken image links or unnecessary HTML.<br><br>## Important Rules<br><br>1. Do not copy another developer's personal details, projects, experience, or achievements.<br>2. Do not invent my skills or claim I have professional experience that I have not confirmed.<br>3. Do not generate fake statistics or project links.<br>4. Keep the writing natural and human, not generic or AI-sounding.<br>5. Use placeholders only where information is genuinely missing.<br>6. Do not create unnecessary sections just to make the README longer.<br><br>## Before Creating the README<br><br>First, identify what information you already have and what is missing.<br><br>Ask me for the minimum essential details, such as:<br><br>* GitHub username.<br>* Confirmed technical skills.<br>* Project names and repository links.<br>* Portfolio and LinkedIn links.<br>* Email address, if I want to display it.<br>* Current learning goals.<br><br>Do not ask me to provide information I have already supplied.<br><br>## Final Deliverable<br><br>After collecting the necessary information, provide:<br><br>1. A complete, polished README.md in one copy-paste-ready Markdown code block.<br>2. Instructions explaining where to replace placeholders.<br>3. Any additional files required, such as a banner image, with their exact filenames and repository paths.<br>4. Setup instructions for optional contribution snake animations or other external widgets.<br>5. A final checklist for verifying links, images, badges, and GitHub rendering.<br><br>The final result should look professionally designed, similar in structure to the supplied reference, while accurately representing my own developer profile.<br>
+<!-- ================================================= -->
+<!--                  HEADER                            -->
+<!-- ================================================= -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maheen_develop) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maheenimran9) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maheenimran.services@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0307,40:310817,100:0B0307&height=210&section=header&text=Maheen%20Imran&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20WordPress%20%26%20React%20%7C%20UI%2FUX%20Designer&descAlignY=60&descSize=15&animation=fadeIn" width="100%" alt="Maheen Imran GitHub banner" />
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=maheenimran9&theme=panda&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=maheenimran9&theme=panda&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=maheenimran9&theme=panda&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=19&duration=3000&pause=1000&color=FF4778&center=true&vCenter=true&width=650&lines=Building+Websites+That+Make+Your+Phone+Ring;Frontend+Developer+%7C+Web+Designer;WordPress+%26+Custom+MERN+Development;Turning+Business+Ideas+Into+Digital+Experiences" alt="Animated introduction" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=310817&label=PROFILE+VIEWS" alt="Profile views counter" />
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=maheenimran9&icon=3&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ================================================= -->
+<!--                  ABOUT ME                          -->
+<!-- ================================================= -->
+
+<h2 align="center">👩🏻‍💻 About Me</h2>
+
+<table>
+<tr>
+<td width="60%" valign="middle">
+
+```javascript
+const maheen = {
+
+  name: "Maheen Imran",
+
+  role: "Frontend Developer",
+
+  company: "devsolutionspk",
+
+  location: "Karachi, Pakistan",
+
+  languages: ["Urdu", "English"],
+
+  building: [
+    "Business Websites",
+    "WooCommerce Stores",
+    "Warehouse & Racking Websites",
+    "Modern React Applications"
+  ],
+
+  learning: [
+    "Next.js",
+    "TypeScript",
+    "Web Performance",
+    "Technical SEO"
+  ],
+
+  tech: {
+
+    frontend: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Vite"
+    ],
+
+    cms: [
+      "WordPress",
+      "WooCommerce"
+    ],
+
+    backend: [
+      "Node.js",
+      "Express",
+      "MongoDB"
+    ],
+
+    tools: [
+      "Cloudinary",
+      "Git",
+      "GitHub",
+      "Figma"
+    ]
+  },
+
+  focus: "UI/UX & Conversion-Focused Websites",
+
+  goal: "Building better digital experiences"
+};
+```
+
+</td>
+
+<td width="40%" align="center" valign="middle">
+
+<img src="YOUR_ILLUSTRATION_URL" width="100%" alt="Maheen's developer illustration" />
+
+<br><br>
+
+### Design. Develop. Improve.
+
+Creating modern, responsive and user-friendly websites for businesses.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+> "Great websites don't just look good. They make it easier for people to take action."
+
+**— Maheen Imran**
+
+</div>
+
+---
+
+<!-- ================================================= -->
+<!--                  CONNECT                           -->
+<!-- ================================================= -->
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="mailto:maheenimran.services@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-8D5368?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<a href="YOUR_INSTAGRAM_URL">
+<img src="https://img.shields.io/badge/Instagram-Follow-BB5275?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-Explore-663044?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+
+</div>
+
+---
+
+<!-- ================================================= -->
+<!--                  TECH STACK                        -->
+<!-- ================================================= -->
+
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
+
+<h3 align="center">Frontend Development</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite&theme=dark" alt="HTML CSS JavaScript React and Vite" />
+
+</div>
+
+<h3 align="center">Backend & CMS</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,wordpress&theme=dark" alt="Node.js Express MongoDB and WordPress" />
+
+</div>
+
+<h3 align="center">Design & Development Tools</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,ps,npm,vercel,netlify&theme=dark" alt="Figma Git GitHub VS Code Photoshop npm Vercel and Netlify" />
+
+</div>
+
+<br>
+
+<h3 align="center">Additional Technologies</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/WordPress-49313B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+
+<img src="https://img.shields.io/badge/WooCommerce-70415D?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce" />
+
+<img src="https://img.shields.io/badge/Cloudinary-49313B?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+
+<img src="https://img.shields.io/badge/Elementor-70415D?style=flat-square&logo=elementor&logoColor=white" alt="Elementor" />
+
+<img src="https://img.shields.io/badge/Photoshop-49313B?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
+
+<img src="https://img.shields.io/badge/Canva-70415D?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
+
+</div>
+
+---
+
+<!-- ================================================= -->
+<!--                  CURRENT WORK                      -->
+<!-- ================================================= -->
+
+<h2 align="center">🚀 What I'm Working On</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 💻 Building
+
+- Business Websites
+- E-commerce Experiences
+- Warehouse & Racking Websites
+- Responsive React Interfaces
+
+</td>
+
+<td width="50%" align="center">
+
+### 📚 Learning
+
+- Next.js
+- TypeScript
+- Website Performance
+- Technical SEO
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ================================================= -->
+<!--                  GITHUB STATS                      -->
+<!-- ================================================= -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&bg_color=0B0307&title_color=E8A0B3&icon_color=D85A78&text_color=C9C2C6&rank_icon=github" alt="GitHub statistics" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&bg_color=0B0307&title_color=E8A0B3&text_color=C9C2C6&langs_count=8" alt="Most used programming languages" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0B0307&ring=D85A78&fire=E8A0B3&currStreakLabel=E8A0B3&sideLabels=C9C2C6&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+<!-- ================================================= -->
+<!--                  PROFILE SUMMARY                   -->
+<!-- ================================================= -->
+
+<h2 align="center">📈 Contribution Overview</h2>
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=transparent" alt="GitHub profile details" />
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=transparent" alt="Repositories by language" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=transparent" alt="Most committed languages" />
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=transparent" alt="GitHub statistics summary" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=transparent&utcOffset=5" alt="GitHub productive time" />
+
+</div>
+
+---
+
+<!-- ================================================= -->
+<!--                  ACTIVITY GRAPH                    -->
+<!-- ================================================= -->
+
+<h2 align="center">📉 Contribution Activity</h2>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0B0307&color=C9A1AF&line=D85A78&point=E8A0B3&area=true&hide_border=true&custom_title=My%20Contribution%20Activity" alt="GitHub activity graph" />
+
+</div>
+
+---
+
+<!-- ================================================= -->
+<!--                  TROPHIES                          -->
+<!-- ================================================= -->
+
+<h2 align="center">🏆 GitHub Achievements</h2>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="GitHub trophies and achievements" />
+
+</div>
+
+---
+
+<!-- ================================================= -->
+<!--                  FEATURED PROJECTS                 -->
+<!-- ================================================= -->
+
+<h2 align="center">💼 Featured Projects</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🏭 Warehouse & Racking Website
+
+Business website concept for industrial storage and warehouse equipment companies.
+
+**Tech:** WordPress, Elementor
+
+[View Project](YOUR_PROJECT_1_URL)
+
+</td>
+
+<td width="50%" align="center">
+
+### 🛒 E-Commerce Store
+
+Modern online store with product listings and shopping functionality.
+
+**Tech:** WooCommerce, WordPress
+
+[View Project](YOUR_PROJECT_2_URL)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### 💻 Digital Agency Website
+
+Modern agency website with responsive layouts and service sections.
+
+**Tech:** React, Vite, CSS
+
+[View Project](YOUR_PROJECT_3_URL)
+
+</td>
+
+<td width="50%" align="center">
+
+### 🎨 Service Business Website
+
+Professional website concept for a service-based business.
+
+**Tech:** React, JavaScript, CSS
+
+[View Project](YOUR_PROJECT_4_URL)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- Replace these concepts with actual projects and working links. -->
+
+---
+
+<!-- ================================================= -->
+<!--                  FOOTER                            -->
+<!-- ================================================= -->
+
+<div align="center">
+
+### Let's Build Something Great Together.
+
+Interested in web development, UI/UX or building better digital experiences?
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/Connect_With_Me-663044?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Maheen on LinkedIn" />
+</a>
+
+<br><br>
+
+**Made with care by Maheen Imran**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:310817,50:190811,100:0B0307&height=120&section=footer" width="100%" alt="Dark burgundy footer wave" />
+
+</div>
